@@ -1,0 +1,182 @@
+Tue Nov  5 18:30:26 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 18:32:56 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Tue Nov  5 18:33:01 2024
+ - User: Walter - Action: Login - Details: User logged in.
+Tue Nov  5 18:33:42 2024
+ - User: Walter - Action: Logout - Details: Employee logged out.
+Tue Nov  5 18:38:13 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 18:38:27 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Tue Nov  5 18:38:32 2024
+ - User: Walter - Action: Login - Details: User logged in.
+Tue Nov  5 18:38:36 2024
+ - User: Walter - Action: Logout - Details: Employee logged out.
+Tue Nov  5 19:09:47 2024
+ - User: Walter - Action: Login - Details: User logged in.
+Tue Nov  5 19:11:04 2024
+ - User: Walter - Action: Logout - Details: Employee logged out.
+Tue Nov  5 19:17:43 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 19:17:48 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Tue Nov  5 19:18:07 2024
+ - User: Walter - Action: Login - Details: User logged in.
+Tue Nov  5 19:18:52 2024
+ - User: Walter - Action: Logout - Details: Employee logged out.
+Tue Nov  5 19:20:43 2024
+ - User: Joseph - Action: Login - Details: User logged in.
+Tue Nov  5 19:21:32 2024
+ - User: Joseph - Action: Logout - Details: Employee logged out.
+Tue Nov  5 19:21:40 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 19:23:28 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Tue Nov  5 19:30:44 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 19:31:39 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Tue Nov  5 19:43:03 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 19:44:16 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Tue Nov  5 19:55:26 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 19:56:09 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Tue Nov  5 20:06:37 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 20:06:54 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Tue Nov  5 20:08:19 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 20:08:55 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 20:09:23 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Tue Nov  5 20:10:41 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 20:13:15 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Tue Nov  5 20:14:06 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 20:20:39 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 20:21:42 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 20:22:47 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Tue Nov  5 20:29:39 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 20:45:10 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Tue Nov  5 20:45:15 2024
+ - User: Walter - Action: Login - Details: User logged in.
+Tue Nov  5 21:15:11 2024
+ - User: Walter - Action: Login - Details: User logged in.
+Tue Nov  5 21:32:25 2024
+ - User: Walter - Action: Logout - Details: Employee logged out.
+Tue Nov  5 21:40:01 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 21:40:10 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Tue Nov  5 21:54:21 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 21:54:25 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Tue Nov  5 22:36:06 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 22:38:39 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Tue Nov  5 22:51:04 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 22:52:37 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Tue Nov  5 23:03:05 2024
+ - User: Walter - Action: Login - Details: User logged in.
+Tue Nov  5 23:03:17 2024
+ - User: Walter - Action: Logout - Details: Employee logged out.
+Tue Nov  5 23:13:03 2024
+ - User: landon - Action: Login - Details: User logged in.
+Tue Nov  5 23:13:08 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Tue Nov  5 23:14:16 2024
+ - User: Joseph - Action: Login - Details: User logged in.
+Tue Nov  5 23:14:24 2024
+ - User: Joseph - Action: Logout - Details: Employee logged out.
+Tue Nov  5 23:14:28 2024
+ - User: Walter - Action: Login - Details: User logged in.
+Tue Nov  5 23:14:36 2024
+ - User: Walter - Action: Logout - Details: Employee logged out.
+Wed Nov  6 07:57:15 2024
+ - User: landon - Action: Login - Details: User logged in.
+Wed Nov  6 07:58:05 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Wed Nov  6 07:58:16 2024
+ - User: walter - Action: Login - Details: User logged in.
+Wed Nov  6 08:01:06 2024
+ - User: walter - Action: Login - Details: User logged in.
+Wed Nov  6 08:01:38 2024
+ - User: landon - Action: Withdraw - Details: Withdrew 310.000000 from account 100013
+Wed Nov  6 08:02:32 2024
+ - User: landon - Action: Withdraw - Details: Withdrew 10.000000 from account 100011
+Wed Nov  6 08:07:03 2024
+ - User: Walter - Action: Login - Details: User logged in.
+Wed Nov  6 08:07:37 2024
+ - User: Walter - Action: Logout - Details: Employee logged out.
+Wed Nov  6 08:11:58 2024
+ - User: Walter - Action: Login - Details: User logged in.
+Wed Nov  6 08:12:28 2024
+ - User: Walter - Action: Logout - Details: Employee logged out.
+Wed Nov  6 08:12:36 2024
+ - User: kylie - Action: Login - Details: User logged in.
+Wed Nov  6 08:13:25 2024
+ - User: kylie - Action: Logout - Details: User logged out.
+Wed Nov  6 08:14:02 2024
+ - User: Walter - Action: Login - Details: User logged in.
+Wed Nov  6 08:14:04 2024
+ - User: Walter - Action: Logout - Details: Employee logged out.
+Wed Nov  6 08:14:39 2024
+ - User: Walter - Action: Login - Details: User logged in.
+Wed Nov  6 08:15:26 2024
+ - User: walter - Action: Withdraw - Details: Withdrew 150.000000 from account 100006
+Wed Nov  6 08:15:37 2024
+ - User: Walter - Action: Logout - Details: Employee logged out.
+Wed Nov  6 08:15:43 2024
+ - User: landon - Action: Login - Details: User logged in.
+Wed Nov  6 08:17:01 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Wed Nov  6 08:17:27 2024
+ - User: Walter - Action: Login - Details: User logged in.
+Wed Nov  6 08:17:32 2024
+ - User: Walter - Action: Logout - Details: Employee logged out.
+Wed Nov  6 08:17:40 2024
+ - User: Joseph - Action: Login - Details: User logged in.
+Wed Nov  6 08:17:46 2024
+ - User: Joseph - Action: Logout - Details: Employee logged out.
+Wed Nov  6 08:18:03 2024
+ - User: Walter - Action: Login - Details: User logged in.
+Wed Nov  6 08:21:21 2024
+ - User: Walter - Action: Login - Details: User logged in.
+Wed Nov  6 08:21:25 2024
+ - User: Walter - Action: Logout - Details: Employee logged out.
+Wed Nov  6 08:22:08 2024
+ - User: Walter - Action: Login - Details: User logged in.
+Wed Nov  6 08:23:05 2024
+ - User: Walter - Action: Logout - Details: Employee logged out.
+Wed Nov  6 08:36:30 2024
+ - User: landon - Action: Login - Details: User logged in.
+Wed Nov  6 08:36:53 2024
+ - User: landon - Action: Logout - Details: User logged out.
+Wed Nov  6 08:39:33 2024
+ - User: Joseph - Action: Login - Details: User logged in.
+Wed Nov  6 08:40:10 2024
+ - User: landon - Action: Withdraw - Details: Withdrew 1500.000000 from account 100009
+Thu Nov  7 16:26:06 2024
+ - User: Walter - Action: Login - Details: User logged in.
+Fri Nov  8 17:38:45 2024
+ - User: Walter - Action: Login - Details: User logged in.
+Fri Nov  8 17:38:52 2024
+ - User: Walter - Action: Logout - Details: Employee logged out.
